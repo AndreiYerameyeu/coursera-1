@@ -42,7 +42,17 @@ article {
     font-size: 1.25em;
 }
 
+#title1 {
+background-color:#FF00E0;
+}
 
+#title2 {
+  background-color:#0FAB38;
+}
+
+#title3 {
+  background-color:#18479E
+}
 /***mobile***/
 
 @media (max-width: 767px) {
